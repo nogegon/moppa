@@ -1,4 +1,4 @@
-My Own Python Plugin Attemp (MOPPA)
+# My Own Python Plugin Attemp (MOPPA)
 
 The objective/concept is to have :
    - Several "plugins" (Python Classes in fact) that are architectured in the same way (like a template)
@@ -22,4 +22,4 @@ You want to add a new plugin ?
 
 In this demo, you will see some exemples of using/accessing variables, functions and passing some values between this file and the loaded plugin (and the other way around).
 
-Finally, I'm not a developper. MOPPA is just a way to have fun with Python and to (eventually) use it in another project.
+Finally, I'm not a developper. MOPPA is just a way to have fun with Python and to use it in another project.
